@@ -8,14 +8,14 @@
 
   Pandas offers several advantages for data scientists:
   
-  Easy handling of structured data: Pandas provides powerful data structures, such as Series and DataFrame, that allow for easy manipulation     and analysis of structured data.
+  > Easy handling of structured data: Pandas provides powerful data structures, such as Series and DataFrame, that allow for easy manipulation     and analysis of structured data.
   
-  Data alignment and integration: Pandas can handle datafrom various sources and align them based on common indices or column names, making it   easy to integrate data from different sources.
+  > Data alignment and integration: Pandas can handle datafrom various sources and align them based on common indices or column names, making it   easy to integrate data from different sources.
   
-  Efficient data manipulation: Pandas provides vectorized operations and optimized algorithms, which significantly speed up data manipulation    tasks compared to traditional Python methods.
+  > Efficient data manipulation: Pandas provides vectorized operations and optimized algorithms, which significantly speed up data manipulation    tasks compared to traditional Python methods.
   
-  Missing data handling: Pandas offers flexible tools for handling missing data, allowing users to either drop or fill in missing values.
+  > Missing data handling: Pandas offers flexible tools for handling missing data, allowing users to either drop or fill in missing values.
   
-  Data visualization: Pandas integrates well with popular data visualization libraries, such as Matplotlib and Seaborn, enabling the creation  
+  > Data visualization: Pandas integrates well with popular data visualization libraries, such as Matplotlib and Seaborn, enabling the creation  
   of insightful visualizations.
 
